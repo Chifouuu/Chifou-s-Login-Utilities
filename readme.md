@@ -4,7 +4,7 @@
 <p>Any problems ? Contact Chifou#6430 on discord</p>
 
 ## Tutorials
-<button><a href="https://mega.nz/file/oWA1FT4S#DVCnD6IEpv7Mb0sy5areYBZp0PB2503OFF2_B3algU8">Youtube French Video</a></button>
+<button><a href="https://www.youtube.com/watch?v=IOfnV8zzlJY&ab_channel=Chifou">Youtube French Video</a></button>
 <a href="https://google.com/">Youtube unilang Video(SOON)</a>
 
 ## Windows Workspace Downloads
